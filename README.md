@@ -1,4 +1,4 @@
-# Flux0 + Vite (React + TS) Streaming Demo
+# flux0-react-vite-minimal-demo
 
 A minimal demo showing how to use **`@flux0-ai/react`** in a Vite + React + TypeScript app with **real-time streaming**.
 
